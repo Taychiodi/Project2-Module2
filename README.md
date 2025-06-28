@@ -3,7 +3,7 @@ This project investigates the causal impact of selling health supplements throug
 
 ## Dataset
 Source: IronKaggle (provided by Ironhack)
-Geographies covered: United States 🇺🇸, Canada 🇨🇦, United Kingdom 🇬🇧
+Geographies covered: United States, Canada, United Kingdom
 Observations: ~4,000 sales records
 Main columns:
 Date, Product Name, Category, Price, Revenue, Units Sold, Discount, Units Returned
